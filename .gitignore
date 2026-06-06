@@ -1,1 +1,29 @@
+# Anotações pessoais
 notas.md
+notas*.md
+
+# Credenciais — NUNCA subir isso!
+*.env
+.env*
+senhas.txt
+passwords.txt
+*password*
+*secret*
+
+# Chave SSH da AWS
+*.pem
+
+# Logs locais
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

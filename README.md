@@ -13,3 +13,4 @@ Lab de Observabilidade e Análise de Logs
 
 Apache  →  Filebeat  →  Logstash  →  Elasticsearch  →  Kibana
  ``` 
+ 
