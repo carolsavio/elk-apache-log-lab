@@ -2,7 +2,7 @@
 notas.md
 notas*.md
 
-# Credenciais — NUNCA subir isso!
+# Credenciais
 *.env
 .env*
 senhas.txt
