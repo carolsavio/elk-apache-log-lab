@@ -68,7 +68,3 @@ apt-cache policy elasticsearch
 ```
 
 Deve mostrar a versão `8.x.x` como candidata para instalação.
-
-![Instalando elasticsearch](/docs/screenshots/installing-elasticsearch.png)
-
-![Password gerado pelo elasticsearch](/docs/screenshots/passwdprint.png)
